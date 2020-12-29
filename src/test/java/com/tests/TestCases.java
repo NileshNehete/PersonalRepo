@@ -13,6 +13,12 @@ public class TestCases extends BaseClass {
 		System.out.println("Executing Test1 for Value = "+a);
 	}
 	
+	@Test
+	public void welcome()
+	{
+		System.out.println("Welcome to Test NG");
+	}
+	
 	
 
 }
